@@ -222,9 +222,4 @@ Image picker not opening
 - Rebuild after permission changes: `npx react-native run-android`
 - Ensure `react-native-image-picker` is installed and linked
 
-## Demo checklist
-- Backend running; logs show items/attributes loaded
-- Frontend `baseUrl` set to backend IP
-- Dislike ≥3 items → feedback button appears
-- Test both "Upload Image" and "Describe Style"; observe updated recommendations
 
